@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/learnbookerupdate/static/css/main.fc1f4d98.css",
+    "main.js": "/learnbookerupdate/static/js/main.cffcc221.js",
+    "static/js/787.acb6ca57.chunk.js": "/learnbookerupdate/static/js/787.acb6ca57.chunk.js",
+    "index.html": "/learnbookerupdate/index.html",
+    "main.fc1f4d98.css.map": "/learnbookerupdate/static/css/main.fc1f4d98.css.map",
+    "main.cffcc221.js.map": "/learnbookerupdate/static/js/main.cffcc221.js.map",
+    "787.acb6ca57.chunk.js.map": "/learnbookerupdate/static/js/787.acb6ca57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc1f4d98.css",
+    "static/js/main.cffcc221.js"
+  ]
+}
